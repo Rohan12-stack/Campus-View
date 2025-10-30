@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+transformers>=4.30
+sentencepiece
+accelerate
+gradio>=3.50
+pillow
+opencv-python-headless
+pytesseract
+requests
+python-dotenv
