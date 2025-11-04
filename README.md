@@ -1,4 +1,4 @@
-## **Campus View **
+## **Campus View**
 
 ##  Overview
 
@@ -20,7 +20,7 @@ CampusView is an AI-powered Visual Campus Navigation System that uses Gemini 1.5
 
 The backend is powered by Gemini 1.5 Flash integrated via API, along with a custom RAG (Retrieval-Augmented Generation) and rule-based logic system. The backend ensures accurate responses, handles edge cases, and integrates model reasoning, retrieval logic, and structured data seamlessly.
 <p align="center">
-  <img src="resources/UI.jpg" alt="UI" width="250">
+  <img src="resources/backend.png" alt="UI" width="250">
   <br>
   <em>Python Code</em>
 </p>
@@ -35,7 +35,7 @@ Users can:
 - Once the user submits a query, the image and question are sent to the backend for processing.
 
 <p align="center">
-  <img src="resources/UI.jpg" alt="UI" width="250">
+  <img src="resources/Frontend.png" alt="UI" width="250">
   <br>
   <em>UI</em>
 </p>
@@ -67,7 +67,7 @@ Users can:
 
 ## System Architecture
 <p align="center">
-  <img src="resources/UI.jpg" alt="UI" width="250">
+  <img src="resources/architecture.png" alt="UI" width="100">
   <br>
   <em>System Workflow</em>
 </p>
@@ -76,23 +76,6 @@ Users can:
 ## Performance
 
 The model provides strong accuracy in distinguishing safe URLs from malicious ones such as phishing or suspicious domains. All predictions run locally on the device in milliseconds, delivering immediate security feedback without internet connectivity. This ensures fast operation and strong privacy protection.
-
-## Result
-
-
-<p align="center">
-  <img src="resources/result/Github1.jpg" alt="Safe URL Result" width="200">
-  <img src="resources/result/Github2.jpg" alt="Safe URL Result" width="200">
-  <br>
-  <em>Secure QR Code</em>
-</p>
-
-<p align="center">
-  <img src="resources/result/Spam.jpg" alt="Malicious URL Result" width="200">
-  <img src="resources/result/Spam1.jpg" alt="Malicious URL Result" width="200">
-  <br>
-  <em>Harmful QR Code</em>
-</p>
 
 
 ### Prerequisites
@@ -127,7 +110,8 @@ Go through my website using this link - [CampusView](https://huggingface.co/spac
 
 or scan the QR Code
 <p align="center">
-  <img src="resources/UI.jpg" alt="UI" width="250">
+  <img src="resources/CVqrcode.png" alt="UI" width="150">
   <br>
 </p>
+
 
