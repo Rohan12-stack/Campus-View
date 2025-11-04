@@ -67,7 +67,7 @@ Users can:
 
 ## System Architecture
 <p align="center">
-  <img src="resources/architecture.png" alt="UI" width="500">
+  <img src="resources/architecture.png" alt="UI" width="300">
   <br>
   <em>System Workflow</em>
 </p>
@@ -109,10 +109,11 @@ The model provides strong accuracy in distinguishing safe URLs from malicious on
 Go through my website using this link - [CampusView](https://huggingface.co/spaces/RohXn/Campus_View)
 
 or scan the QR Code
-<p align="center">
+<p align="left">
   <img src="resources/CVqrcode.png" alt="UI" width="150">
   <br>
 </p>
+
 
 
 
